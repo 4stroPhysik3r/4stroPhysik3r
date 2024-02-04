@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript
 
 - 💬 Ask me about my pets!
-- ⚡ Fun fact: Born and raised in 🇦🇹🏔️, Ex-Biathlon & Cross-country skiing national champion, living withh pets ❤
+- ⚡ Fun fact: Born and raised in Austria🏔️, Ex-Biathlon & Cross-country skiing national champion, living withh pets ❤
 
 
 <!--
