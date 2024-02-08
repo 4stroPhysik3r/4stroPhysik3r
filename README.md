@@ -4,7 +4,7 @@
 - 📚 I’m currently studying Software Development at [kood/Jõhvi](https://kood.tech)
 - 🌱 I’m currently learning JavaScript
 
-- 💬 Ask me about my pets!
+- 💬 Ask me about my chinchillas!
 - ⚡ Fun fact: Born and raised in Austria🏔️, Ex-Biathlon & Cross-country skiing national champion, living withh pets ❤
 
 
