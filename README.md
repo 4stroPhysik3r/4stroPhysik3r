@@ -1,10 +1,7 @@
 ![Header](github-header-image.png)
 
-### Hi there 👋
-#### I'm Alex! Nice to meet you!
-
-- 📚 I’m currently studying Software Development at [kood/Jõhvi](https://kood.tech)
-- 🌱 I’m currently learning JavaScript & Python🐍.
+- 📚 Currently studying Software Development at [kood/Jõhvi](https://kood.tech)
+- 🌱 Currently learning JavaScript & Python🐍.
 - 💬 Ask me about my chinchillas!
 - ⚡ Fun fact: Born and raised in Austria 🏔️, Ex-Biathlon & Cross-country skiing national champion 🏆, live with many pets ❤️
 
