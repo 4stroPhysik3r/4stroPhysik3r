@@ -1,8 +1,8 @@
 ![Banner-Image](github-header-image.png)
 
+- 💻 Software Engineer (L4) at Bolt <a href="https://bolt.eu/" target="_blank" rel="noreferrer"><img src="https://assets.homepage.bolt.eu/1.22.89/public/common-assets/bolt-logo-black.svg" alt="Bolt Logo" width="20" height="20"/></a>
 - 📚 Full-stack Development alumni from [kood/Jõhvi](https://kood.tech)
-- 💻 Currently working as Software Engineer at Bolt <a href="https://bolt.eu/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1H_B-JOAdeOsG_CAW4uMloqDrinyzwo8cw&s" alt="Bolt Logo" width="20" height="20" style="background-color: transparent;"/></a>
-- 🌱 JavaScript & Python🐍
+- 🌱 TypeScript/JavaScript & Python🐍
 - 💬 Ask me about my chinchillas!
 - ⚡ Fun fact: Born and raised in Austrian Alps 🏔️, Ex-Biathlon & Cross-country skiing national champion 🏆, living in country side with many pets ❤️
 
